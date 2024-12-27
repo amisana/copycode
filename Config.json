@@ -1,0 +1,11 @@
+{
+  "name": "Wrap with Code Block",
+  "identifier": "com.example.wrap-code-block",
+  "version": "1.0",
+  "language": "applescript",
+  "applescript file": "WrapWithCodeBlock.applescript",
+  "description": "Wrap the selected text with code block and prompt for language type.",
+  "icon": "iconify:icon-park:file-code",
+  "after": "copy-result"
+}
+
