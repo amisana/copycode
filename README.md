@@ -1,3 +1,5 @@
+![Description of Image](copycode-banner-4x3.png)
+
 # Text File Content Extractor
 
 A sophisticated AppleScript utility designed for batch extraction and formatting of text-based file contents. The script provides robust error handling, UTF-8 encoding support, and intelligent content organization with syntax-aware formatting.
